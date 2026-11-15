@@ -30,6 +30,12 @@ producción, precios, agenda, clientas, recetas, stock y cobros) desde una sola 
 - **Asistente personal, por voz o texto:** hace tareas dentro de la app; lo delicado queda en
   *Pendientes* esperando el OK de la dueña.
 
+## Manual de usuario
+
+El [manual de usuario](docs/manual-de-usuario.md) recorre la app pantalla por pantalla, con 70
+capturas sacadas con una cuenta de prueba y datos inventados. Está escrito para la repostera, no
+para quien desarrolla.
+
 ## Arquitectura
 
 ```mermaid
