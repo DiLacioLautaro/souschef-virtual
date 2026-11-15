@@ -5,7 +5,6 @@
 **Autor:** Lautaro Di Lacio
 **Fecha:** 29 de octubre de 2026
 
-<!-- Regla para quien mantiene este manual: «El manual (y su captura) va en el mismo commit que cualquier cambio de barra, Inicio o menú». Las figuras desactualizadas se marcan con «📷 (captura pendiente)» y se listan en SOUSCHEF_manual_pantallas/README.md. -->
 
 ---
 
