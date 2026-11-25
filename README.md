@@ -21,6 +21,8 @@ producción, precios, agenda, clientas, recetas, stock y cobros) desde una sola 
 
 **En esta página:** [Qué hace](#qué-hace) · [Arquitectura](#arquitectura) · [Decisiones de diseño](#decisiones-de-diseño) · [En números](#en-números) · [Stack](#stack) · [Calidad](#calidad) · [Manual de usuario](#manual-de-usuario)
 
+**Para ver código:** [Cómo está hecho](docs/como-esta-hecho.md) muestra fragmentos reales del repositorio privado: la firma de los webhooks, el guardrail que impide que el bot diga un precio, las políticas de aislamiento entre negocios y cómo se prueba.
+
 ## Qué hace
 
 - **Bot de atención:** responde consultas simples, toma el pedido (fecha, porciones, temática,
@@ -100,11 +102,13 @@ compartido, así los tres canales se comportan igual y una corrección se hace u
 |---|---|
 | Módulos de la app | 25 |
 | Edge Functions | 37 |
-| Migraciones de base | 218 |
+| Migraciones de base | 219 |
 | Canales de mensajería | 3 |
-| Archivos de test de la app | 73 |
+| Archivos de test de la app | 74 |
+| Tests de la lógica compartida del backend | 127 |
+| Casos de evaluación del bot | 168 |
 
-Contado sobre la rama principal el 15/11/2026.
+Contado sobre la rama principal el 25/11/2026.
 
 ## Stack
 
@@ -122,10 +126,14 @@ Contado sobre la rama principal el 15/11/2026.
 
 ## Calidad
 
-- Tests de la app con `flutter test` y tests de las funciones compartidas del backend.
-- Suite de evaluaciones del bot para verificar su comportamiento ante conversaciones de ejemplo.
+- Tests de la app con `flutter test` (74 archivos) y 127 tests de las funciones compartidas del backend.
+- Simulador de charlas: corre el bot real con una base y un reloj de mentira; en cada corrida
+  genera 120 conversaciones al azar y comprueba que no haya respuestas dobles ni mensajes sin atender.
+- Suite de evaluaciones del bot (168 casos) sobre el mismo prompt que usa producción.
 - CI en GitHub Actions: análisis, tests y compilación de iOS.
 - Webhooks con verificación de firma y esquema de base versionado por migraciones.
+
+El detalle, con código y resultados, está en [Cómo está hecho](docs/como-esta-hecho.md#cómo-se-prueba).
 
 ## Manual de usuario
 
