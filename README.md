@@ -32,7 +32,7 @@ producción, precios, agenda, clientas, recetas, stock y cobros) desde una sola 
 
 ## Manual de usuario
 
-El [manual de usuario](docs/manual-de-usuario.md) recorre la app pantalla por pantalla, con 70
+El [manual de usuario](docs/manual-de-usuario.md) recorre la app pantalla por pantalla, con 69
 capturas sacadas con una cuenta de prueba y datos inventados. Está escrito para la repostera, no
 para quien desarrolla.
 

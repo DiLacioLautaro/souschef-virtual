@@ -51,12 +51,11 @@ SousChef es como tener una ayudante que nunca se cansa. Trabaja para vos las 24 
 
 ## 2. Cómo entrar y dar de alta tu negocio (tu primer día)
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/01_entrar_login.jpeg" alt="La pantalla de entrar: tu correo, tu contraseña y el ojo para verla. Más abajo e">
-    <figcaption>La pantalla de entrar: tu correo, tu contraseña y el ojo para verla. Más abajo está la opción de entrar con Google (en la app para iPhone, por ahora, no).</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/01_entrar_login.jpeg" alt="La pantalla de entrar" width="200"><br><sub>La pantalla de entrar: tu correo, tu contraseña y el ojo para verla. Más abajo está la opción de entrar con Google (en la app para iPhone, por ahora, no).</sub></td>
+  </tr>
+</table>
 
 
 ### Entrar a la app
@@ -109,24 +108,14 @@ Estos son los carteles que podés ver, y qué significa cada uno:
 
 ### El asistente de configuración (el alta, en cuatro pasos)
 
-<div class="capturas">
-  <figure>
-    <img src="manual/01a_alta_bienvenida.png" alt="Paso 1 del alta: «¡Bienvenida a SousChef!», el nombre de tu negocio y tu nombre ">
-    <figcaption>Paso 1 del alta: «¡Bienvenida a SousChef!», el nombre de tu negocio y tu nombre (la dueña), con el que el asistente te nombra ante tus clientas.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/01a_alta_como_cobras.png" alt="Paso 2, «¿Cómo cobrás?»: 💵 Tengo precios fijos (le sacás una foto a tu lista y l">
-    <figcaption>Paso 2, «¿Cómo cobrás?»: 💵 Tengo precios fijos (le sacás una foto a tu lista y la leemos) o ✍️ Cotizo cada pedido (el precio lo ponés vos en cada uno).</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/01b_alta_color.png" alt="Paso 3, «Tu color de marca»: elegís la paleta (la cambiás cuando quieras) y, si ">
-    <figcaption>Paso 3, «Tu color de marca»: elegís la paleta (la cambiás cuando quieras) y, si querés, subís tu logo.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/01c_alta_final.png" alt="Paso 4, «¡Casi listo!»: Anotar mi primer pedido, «Más cosas para cargar después»">
-    <figcaption>Paso 4, «¡Casi listo!»: Anotar mi primer pedido, «Más cosas para cargar después» (plegado) e Ir a mi app.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/01a_alta_bienvenida.png" alt="Paso 1 del alta" width="200"><br><sub>Paso 1 del alta: «¡Bienvenida a SousChef!», el nombre de tu negocio y tu nombre (la dueña), con el que el asistente te nombra ante tus clientas.</sub></td>
+    <td width="25%" valign="top"><img src="manual/01a_alta_como_cobras.png" alt="Paso 2, «¿Cómo cobrás?»" width="200"><br><sub>Paso 2, «¿Cómo cobrás?»: 💵 Tengo precios fijos (le sacás una foto a tu lista y la leemos) o ✍️ Cotizo cada pedido (el precio lo ponés vos en cada uno).</sub></td>
+    <td width="25%" valign="top"><img src="manual/01b_alta_color.png" alt="Paso 3, «Tu color de marca»" width="200"><br><sub>Paso 3, «Tu color de marca»: elegís la paleta (la cambiás cuando quieras) y, si querés, subís tu logo.</sub></td>
+    <td width="25%" valign="top"><img src="manual/01c_alta_final.png" alt="Paso 4, «¡Casi listo!»" width="200"><br><sub>Paso 4, «¡Casi listo!»: Anotar mi primer pedido, «Más cosas para cargar después» (plegado) e Ir a mi app.</sub></td>
+  </tr>
+</table>
 
 La primera vez que entrás, SousChef te lleva de la mano por **cuatro pasos**. Ninguno es obligatorio a la perfección: todo se puede cambiar después.
 
@@ -145,12 +134,11 @@ Ese es el recorrido completo de una repostera nueva: **crear la cuenta → los c
 
 ## 3. Conectar tus canales (WhatsApp, Instagram y Facebook)
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/02_conectar_canales.png" alt="Conectar canales: arriba, «Tu asistente se llama» con Guardar; abajo, los tres canales">
-    <figcaption>Conectar canales: arriba, «Tu asistente se llama» con el nombre que elegís y Guardar; abajo, los tres canales (WhatsApp Business, Instagram DMs y Facebook Messenger) con su estado —acá, todavía sin conectar— y los dos botones: Conectar WhatsApp y Conectar Facebook e Instagram. Cuando un canal queda conectado, aparece con su tilde verde.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/02_conectar_canales.png" alt="Conectar canales" width="200"><br><sub>Conectar canales: arriba, «Tu asistente se llama» con el nombre que elegís y Guardar; abajo, los tres canales (WhatsApp Business, Instagram DMs y Facebook Messenger) con su estado —acá, todavía sin conectar— y los dos botones: Conectar WhatsApp y Conectar Facebook e Instagram. Cuando un canal queda conectado, aparece con su tilde verde.</sub></td>
+  </tr>
+</table>
 
 
 Para que SousChef pueda atender a tus clientas, primero tenés que conectar tus redes. Esto se hace **una sola vez** y es lo que le da "manos" al asistente para leer y responder los mensajes.
@@ -189,25 +177,20 @@ Las conexiones de Meta **caducan cada tanto** (más o menos cada 60 días). No t
 
 ## 4. Lo que vendés: tu catálogo y tus combos
 
-<div class="capturas">
-  <figure>
-    <img src="manual/03_catalogo_vacio.jpeg" alt="Así te recibe el Catálogo el primer día: te ofrece el camino corto, importar de ">
-    <figcaption>Así te recibe el Catálogo el primer día: te ofrece el camino corto, importar de una foto de tu lista de precios.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/04_catalogo_producto_alta.png" alt="Cargar un producto a mano: categoría, nombre, y si se vende por tamaño (personas">
-    <figcaption>Cargar un producto a mano: categoría, nombre, y si se vende por tamaño (personas o kilos) o por cantidad (docenas, unidades).</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/03_catalogo_vacio.jpeg" alt="Así te recibe el Catálogo el primer día" width="200"><br><sub>Así te recibe el Catálogo el primer día: te ofrece el camino corto, importar de una foto de tu lista de precios.</sub></td>
+    <td width="25%" valign="top"><img src="manual/04_catalogo_producto_alta.png" alt="Cargar un producto a mano" width="200"><br><sub>Cargar un producto a mano: categoría, nombre, y si se vende por tamaño (personas o kilos) o por cantidad (docenas, unidades).</sub></td>
+  </tr>
+</table>
 
 **Lo que vendés** es la lista de lo que ofrecés: tortas, docenas de cupcakes, cajas de alfajores, boxes, promos… Es lo que tu asistente usa para ofrecer y para saber **qué preguntarle** a cada clienta. Es **una sola pantalla con dos pestañas**: **Productos** (tu catálogo) y **Combos y promos**. La encontrás en **Gestión** (Tu negocio → Lo que vendés) o como **Lo que vendés** en Mis herramientas, al final del Inicio.
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/04a_lo_que_vendes.png" alt="Lo que vendés: una sola pantalla con las pestañas Productos y Combos y promos. E">
-    <figcaption>Lo que vendés: una sola pantalla con las pestañas Productos y Combos y promos. En Productos, las categorías arriba, el buscador y cada producto con su precio base; abajo, Nuevo producto.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/04a_lo_que_vendes.png" alt="Lo que vendés: una sola pantalla con las pestañas Productos y Combos y promos" width="200"><br><sub>Lo que vendés: una sola pantalla con las pestañas Productos y Combos y promos. En Productos, las categorías arriba, el buscador y cada producto con su precio base; abajo, Nuevo producto.</sub></td>
+  </tr>
+</table>
 
 **En la tablet acostada** (salvo las más chicas, de 8") Lo que vendés se ve partida, en las dos pestañas: a la izquierda la lista —en Productos, con las categorías arriba y el buscador— y a la derecha el formulario del producto o del combo que tocás (o que elegís con **Editar** en el ⋮), que queda marcado en la lista. Lo cambiás ahí mismo y lo guardás: la lista se pone al día y lo seguís viendo al lado (en Productos, **Cancelar** vacía el lado derecho). **Nuevo producto** y **Nuevo combo** van abajo de la lista y abren el formulario vacío a la derecha; al guardarlo, el nuevo queda marcado. En un combo, al lado del precio ves cuánto te cuesta hacerlo. Con la tablet parada y en el teléfono, **Editar** y los botones de alta abren el formulario desde abajo, como siempre.
 
@@ -272,16 +255,12 @@ En la lista, los de campaña muestran un renglón chico con la ocasión y la fec
 
 ## 5. La pantalla de inicio: tu resumen del día
 
-<div class="capturas">
-  <figure>
-    <img src="manual/05_inicio_resumen.png" alt="Lo primero que ves al abrir: el saludo, el botón grande «Anotar pedido» con «Agre">
-    <figcaption>Lo primero que ves al abrir: el saludo, el botón grande «Anotar pedido» con «Guardar foto de un trabajo» debajo, y Para hoy con los pedidos que necesitan algo tuyo.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/06_inicio_herramientas.png" alt="Al final del Inicio, «Mis herramientas» en tres grupos: Pedidos y clientas, En l">
-    <figcaption>Al final del Inicio, «Mis herramientas» en tres grupos: Pedidos y clientas, En la cocina, y Negocio y plata. Abajo, la barra con sus cinco lugares.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/05_inicio_resumen.png" alt="Lo primero que ves al abrir" width="200"><br><sub>Lo primero que ves al abrir: el saludo, el botón grande «Anotar pedido» con «Guardar foto de un trabajo» debajo, y Para hoy con los pedidos que necesitan algo tuyo.</sub></td>
+    <td width="25%" valign="top"><img src="manual/06_inicio_herramientas.png" alt="Al final del Inicio, «Mis herramientas» en tres grupos" width="200"><br><sub>Al final del Inicio, «Mis herramientas» en tres grupos: Pedidos y clientas, En la cocina, y Negocio y plata. Abajo, la barra con sus cinco lugares.</sub></td>
+  </tr>
+</table>
 
 
 Es la primera pantalla que ves al entrar. Está pensada para que arranques por **lo que tenés que hacer hoy** y, más abajo, tengas los números y los atajos.
@@ -331,12 +310,9 @@ En la parte de abajo tenés cinco lugares, siempre a mano:
 
 **En una tablet** la barra no va abajo: está parada al costado izquierdo, con los mismos cinco lugares en el mismo orden (Inicio arriba, el micrófono en el medio, Gestión abajo). Cuando el manual dice *"la barra de abajo"*, en la tablet es esa columna. La tablet se puede usar parada o acostada: la app gira con ella. En el teléfono sigue todo igual, siempre parado.
 
-<div class="capturas ancha">
-  <figure>
-    <img src="manual/t01_tablet_inicio_riel.png" alt="En la tablet acostada, el Inicio con la columna de la izquierda (Inicio · Mensaj">
-    <figcaption>En la tablet acostada, el Inicio con la columna de la izquierda (Inicio · Mensajes · micrófono · Agenda · Gestión) en vez de la barra de abajo; el contenido va al medio, con un ancho cómodo de leer.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr><td><img src="manual/t01_tablet_inicio_riel.png" alt="En la tablet acostada, el Inicio con la columna de la izquierda (Inicio · Mensajes · micrófono · Agenda ·…" width="760"><br><sub>En la tablet acostada, el Inicio con la columna de la izquierda (Inicio · Mensajes · micrófono · Agenda · Gestión) en vez de la barra de abajo; el contenido va al medio, con un ancho cómodo de leer.</sub></td></tr>
+</table>
 
 En la tablet esa columna queda a mano también adentro de las demás pantallas (Pedidos, Clientas, Para hoy, Producción…), así pasás de una a otra sin volver atrás. Si la pantalla es de Gestión, queda marcada Gestión; las que se abren tanto desde el Inicio como desde Gestión, como Para hoy, no marcan ninguno. La única que va sin la columna es la del Asistente, que es justamente adonde lleva el micrófono.
 
@@ -355,12 +331,11 @@ Sin abrir la app, **mantené apretado el ícono de SousChef** en la pantalla del
 
 ## 6. Mensajes y el asistente que atiende solo
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/07_mensajes_bandeja.png" alt="Mensajes: las conversaciones de tus tres canales en un solo lugar, con el buscad">
-    <figcaption>Mensajes: las conversaciones de tus tres canales en un solo lugar, con el buscador arriba y las pestañas Todos / Sin leer / WhatsApp / Instagram.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/07_mensajes_bandeja.png" alt="Mensajes: las conversaciones de tus tres canales en un solo lugar, con el buscador arriba y las pestañas…" width="200"><br><sub>Mensajes: las conversaciones de tus tres canales en un solo lugar, con el buscador arriba y las pestañas Todos / Sin leer / WhatsApp / Instagram.</sub></td>
+  </tr>
+</table>
 
 
 **Mensajes** (el segundo lugar de la barra de abajo) junta todas tus conversaciones de WhatsApp, Instagram y Messenger en un solo lugar. Ya no tenés que andar saltando de una app a otra.
@@ -374,12 +349,9 @@ Sin abrir la app, **mantené apretado el ícono de SousChef** en la pantalla del
 
 **En la tablet acostada** (salvo las más chicas, de 8") Mensajes se ve partida: a la izquierda la lista de conversaciones y a la derecha el chat que tocás, que queda marcado en la lista; lo leés y le respondés ahí mismo, sin perder la lista de vista. Con la tablet parada y en el teléfono, tocar una conversación abre el chat entero, como siempre. Lo que escribiste para responder y todavía no mandaste no se pierde: sigue ahí si girás la tablet y, también en el teléfono, si salís del chat y lo volvés a abrir, mientras no te vayas de Mensajes. Cada conversación guarda lo suyo.
 
-<div class="capturas ancha">
-  <figure>
-    <img src="manual/t02_tablet_mensajes_partida.png" alt="Mensajes partida en la tablet acostada: a la izquierda la lista de conversacione">
-    <figcaption>Mensajes partida en la tablet acostada: a la izquierda la lista de conversaciones (la elegida queda marcada) y a la derecha el chat, con su pastilla Asistente y el campo para responder.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr><td><img src="manual/t02_tablet_mensajes_partida.png" alt="Mensajes partida en la tablet acostada" width="760"><br><sub>Mensajes partida en la tablet acostada: a la izquierda la lista de conversaciones (la elegida queda marcada) y a la derecha el chat, con su pastilla Asistente y el campo para responder.</sub></td></tr>
+</table>
 
 ### El buscador que encuentra lo dicho hace tiempo
 
@@ -483,12 +455,11 @@ Casi todas las listas de SousChef se manejan igual, así aprendés una vez y te 
 
 ## 8. Pendientes: aprobá todo con un toque
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/08_pendientes.png" alt="Acá SousChef te deja las cosas listas para que vos las apruebes. Cuando hay vari">
-    <figcaption>Acá SousChef te deja las cosas listas para que vos las apruebes. Cuando hay varias del mismo tipo, abajo de la tarjeta aparece «Descartar los N…» para sacarlas todas de una.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/08_pendientes.png" alt="Acá SousChef te deja las cosas listas para que vos las apruebes" width="200"><br><sub>Acá SousChef te deja las cosas listas para que vos las apruebes. Cuando hay varias del mismo tipo, abajo de la tarjeta aparece «Descartar los N…» para sacarlas todas de una.</sub></td>
+  </tr>
+</table>
 
 
 **Pendientes** es donde SousChef te deja preparadas cosas para que vos las revises y confirmes. La regla de oro es simple:
@@ -527,28 +498,17 @@ No hace falta que limpies: los pendientes **vencen solos** cuando ya no tienen s
 
 ## 9. Tus pedidos y su detalle
 
-<div class="capturas tres">
-  <figure>
-    <img src="manual/10_pedidos_lista.png" alt="La lista de pedidos con la tarjeta de siempre: estado, clienta, fecha y hora, re">
-    <figcaption>La lista de pedidos con la tarjeta de siempre: estado, clienta, fecha y hora, relleno y kilos, la fila Precio / Seña / Debe y el botón grande Confirmar o Marcar entregado.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/09_pedido_alta_torta.png" alt="Anotar un pedido: arriba, la clienta y qué es (el tema, el bizcochuelo, los rell">
-    <figcaption>Anotar un pedido (acá, editando uno ya cargado: el formulario es el mismo): arriba, la clienta y qué es: el tema y, piso por piso, el bizcochuelo, los rellenos y la cobertura.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/11_pedido_alta_detalles.png" alt="Enseguida, cuándo y cuánto: la fecha y la hora de entrega, el precio y la seña, ">
-    <figcaption>Enseguida, «Otro piso» y los kilos, y después cuándo y cuánto: la fecha y la hora de entrega, el precio y la seña, y las fotos de referencia.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/12_pedido_alta_entrega.png" alt="Más abajo, lo que se completa después: los minutos de armado, el festejado, el c">
-    <figcaption>Más abajo, lo que se completa después: los minutos de armado, el festejado, el cartel, las notas y los otros productos del pedido.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/13_pedidos_alta.png" alt="El final del formulario: cómo se entrega (Lo retiran / Se envía / A confirmar) y">
-    <figcaption>El final del formulario: cómo se entrega (Lo retiran / Se envía / A confirmar) y el botón Anotar pedido.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/10_pedidos_lista.png" alt="La lista de pedidos con la tarjeta de siempre" width="200"><br><sub>La lista de pedidos con la tarjeta de siempre: estado, clienta, fecha y hora, relleno y kilos, la fila Precio / Seña / Debe y el botón grande Confirmar o Marcar entregado.</sub></td>
+    <td width="25%" valign="top"><img src="manual/09_pedido_alta_torta.png" alt="Anotar un pedido (acá, editando uno ya cargado" width="200"><br><sub>Anotar un pedido (acá, editando uno ya cargado: el formulario es el mismo): arriba, la clienta y qué es: el tema y, piso por piso, el bizcochuelo, los rellenos y la cobertura.</sub></td>
+    <td width="25%" valign="top"><img src="manual/11_pedido_alta_detalles.png" alt="Enseguida, «Otro piso» y los kilos, y después cuándo y cuánto" width="200"><br><sub>Enseguida, «Otro piso» y los kilos, y después cuándo y cuánto: la fecha y la hora de entrega, el precio y la seña, y las fotos de referencia.</sub></td>
+    <td width="25%" valign="top"><img src="manual/12_pedido_alta_entrega.png" alt="Más abajo, lo que se completa después" width="200"><br><sub>Más abajo, lo que se completa después: los minutos de armado, el festejado, el cartel, las notas y los otros productos del pedido.</sub></td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/13_pedidos_alta.png" alt="El final del formulario" width="200"><br><sub>El final del formulario: cómo se entrega (Lo retiran / Se envía / A confirmar) y el botón Anotar pedido.</sub></td>
+  </tr>
+</table>
 
 
 Acá tenés **todos tus pedidos ordenados**, con pestañas para verlos por estado.
@@ -556,12 +516,11 @@ Acá tenés **todos tus pedidos ordenados**, con pestañas para verlos por estad
 
 ### Para hoy: tu día en una sola pantalla
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/09a_para_hoy.png" alt="Para hoy como pantalla propia: cada grupo con sus pedidos y el botón que corresp">
-    <figcaption>Para hoy como pantalla propia: cada grupo con sus pedidos y el botón que corresponde (acá, 🚚 Entregás hoy con Marcar entregado y 📝 Esperan un sí o un no). En la tarjeta ves la cantidad (×24, ×12), lo que debe, la dirección si se envía y, si el pedido lleva más de una cosa, la lista con la cantidad de cada una.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/09a_para_hoy.png" alt="Para hoy como pantalla propia" width="200"><br><sub>Para hoy como pantalla propia: cada grupo con sus pedidos y el botón que corresponde (acá, 🚚 Entregás hoy con Marcar entregado y 📝 Esperan un sí o un no). En la tarjeta ves la cantidad (×24, ×12), lo que debe, la dirección si se envía y, si el pedido lleva más de una cosa, la lista con la cantidad de cada una.</sub></td>
+  </tr>
+</table>
 
 **Para hoy** junta los pedidos que necesitan que hagas algo **ahora**, con un botón para cada caso. Lo ves **arriba de todo en el Inicio** (hasta cinco por grupo) y también como **pantalla propia**, que se abre con **Ver todo ›**, con el número **Pedidos hoy** del Inicio o desde **Gestión → Tu negocio → Para hoy**. Te ordena lo que importa en **cuatro grupos**:
 
@@ -574,12 +533,9 @@ Las tarjetas son **las mismas de Pedidos y de la Agenda** (te las cuento más ab
 
 **En la tablet acostada** (salvo las más chicas, de 8") la pantalla Para hoy se ve partida: la lista a la izquierda y, a la derecha, la ficha del pedido que tocaste, que queda marcado en la lista (también los de *Sin fecha*: la fecha se la ponés con su botón **Ponerle fecha**). Para cambiar algo del pedido, el lápiz de arriba de la ficha (**Editar pedido**) abre el formulario. Con la tablet parada y en el teléfono, todo como siempre.
 
-<div class="capturas ancha">
-  <figure>
-    <img src="manual/t05_tablet_para_hoy_partida.png" alt="Para hoy partida: la lista a la izquierda, con la torta y lo que lleva (1 torta ">
-    <figcaption>Para hoy partida: la lista a la izquierda, con la torta y lo que lleva (1 torta · 12 cupcakes · 24 cakepops), y a la derecha la ficha del pedido que tocaste.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr><td><img src="manual/t05_tablet_para_hoy_partida.png" alt="Para hoy partida" width="760"><br><sub>Para hoy partida: la lista a la izquierda, con la torta y lo que lleva (1 torta · 12 cupcakes · 24 cakepops), y a la derecha la ficha del pedido que tocaste.</sub></td></tr>
+</table>
 
 En la pantalla propia, cuando tenés **cinco o más** pedidos esperando, arriba aparece el buscador (*Buscar clienta o temática…*) y el orden por **Fecha** o **Clienta**. Cuando no queda nada, te dice **¡Estás al día! 🎉**
 
@@ -606,12 +562,9 @@ Cada pestaña te cuenta sola cuántos pedidos hay. Y arriba tenés el **buscador
 
 **En la tablet acostada** (salvo las más chicas, de 8") Pedidos se ve partida: a la izquierda la lista de siempre, con el buscador, y a la derecha la **ficha** del pedido que tocás, que queda marcado en la lista. Para editarlo, el lápiz de arriba de la ficha (**Editar pedido**) abre el formulario de siempre. Si el pedido sale de la lista que estás viendo (otra pestaña, la búsqueda, lo borraste), la ficha se cierra sola. Con la tablet parada y en el teléfono, tocar un pedido abre el formulario, como siempre.
 
-<div class="capturas ancha">
-  <figure>
-    <img src="manual/t04_tablet_pedidos_partida.png" alt="Pedidos partida: a la izquierda la lista con el buscador y las pestañas, con el ">
-    <figcaption>Pedidos partida: a la izquierda la lista con el buscador y las pestañas, con el pedido tocado marcado; a la derecha su ficha (entrega, torta, tamaño, relleno, cartel, la plata y el botón «Ya me pagó»), con el lápiz arriba para editarlo.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr><td><img src="manual/t04_tablet_pedidos_partida.png" alt="Pedidos partida" width="760"><br><sub>Pedidos partida: a la izquierda la lista con el buscador y las pestañas, con el pedido tocado marcado; a la derecha su ficha (entrega, torta, tamaño, relleno, cartel, la plata y el botón «Ya me pagó»), con el lápiz arriba para editarlo.</sub></td></tr>
+</table>
 
 ### Cómo se ve cada pedido: la misma tarjeta en todos lados
 
@@ -638,12 +591,11 @@ Desde **Para hoy** y desde **Producción**, tocar un pedido abre su **ficha**: t
 
 ### Compartir una foto desde WhatsApp (Android)
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/09b_compartir_foto.png" alt="La hoja que abre SousChef cuando compartís una foto desde WhatsApp: «¿Para qué p">
-    <figcaption>La hoja que abre SousChef cuando compartís una foto desde WhatsApp: «¿Para qué pedido es esta foto?», con la miniatura y la lista de tus pedidos abiertos; tocás uno y la foto queda como referencia de ese pedido.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/09b_compartir_foto.png" alt="La hoja que abre SousChef cuando compartís una foto desde WhatsApp" width="200"><br><sub>La hoja que abre SousChef cuando compartís una foto desde WhatsApp: «¿Para qué pedido es esta foto?», con la miniatura y la lista de tus pedidos abiertos; tocás uno y la foto queda como referencia de ese pedido.</sub></td>
+  </tr>
+</table>
 
 ¿La clienta te mandó por WhatsApp la foto de la torta que quiere? No hace falta guardarla y buscarla después:
 
@@ -746,16 +698,12 @@ Podés avanzar el estado con el botón grande de la tarjeta, o con el menú de l
 
 ## 10. La agenda / calendario
 
-<div class="capturas">
-  <figure>
-    <img src="manual/15_agenda_mes.png" alt="El calendario del mes: cada día con entregas muestra cuántos pedidos hay, con el">
-    <figcaption>El calendario del mes: cada día con entregas muestra cuántos pedidos hay, con el color según qué tan cargado está. Abajo, la barra con sus cinco lugares.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/14_agenda_dia.png" alt="Abajo del calendario, los pedidos del día que tocaste, con la misma tarjeta de P">
-    <figcaption>Abajo del calendario, los pedidos del día que tocaste, con la misma tarjeta de Pedidos (la hora primero).</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/15_agenda_mes.png" alt="El calendario del mes" width="200"><br><sub>El calendario del mes: cada día con entregas muestra cuántos pedidos hay, con el color según qué tan cargado está. Abajo, la barra con sus cinco lugares.</sub></td>
+    <td width="25%" valign="top"><img src="manual/14_agenda_dia.png" alt="Abajo del calendario, los pedidos del día que tocaste, con la misma tarjeta de Pedidos (la hora primero)" width="200"><br><sub>Abajo del calendario, los pedidos del día que tocaste, con la misma tarjeta de Pedidos (la hora primero).</sub></td>
+  </tr>
+</table>
 
 
 El calendario te muestra **cuándo tenés entregas** y qué tan cargado está cada día.
@@ -767,12 +715,9 @@ El calendario te muestra **cuándo tenés entregas** y qué tan cargado está ca
 - Si tocás un día, ves **los pedidos de ese día** con **la misma tarjeta de Pedidos** ([sección 9](#9-tus-pedidos-y-su-detalle)): como el día ya está elegido, en vez de la fecha arranca por la **hora**. Tiene el mismo botón **Confirmar** o **Marcar entregado**, y **Me pagó los $…** si te quedaron debiendo. Arriba, los **filtros por estado** (**Nuevos**, **Confirmados**, **Entregados**) para quedarte solo con lo que te interesa, y el orden: **Hora**, **Estado**, **Monto** o **Clienta**.
 - Con el botón **"Ver todos"** saltás a la lista completa de pedidos.
 
-<div class="capturas ancha">
-  <figure>
-    <img src="manual/t03_tablet_agenda_partida.png" alt="La Agenda partida: a la izquierda el mes entero con su resumen y los colores de ">
-    <figcaption>La Agenda partida: a la izquierda el mes entero con su resumen y los colores de cada día; a la derecha los pedidos del día que tocaste, con la misma tarjeta de siempre.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr><td><img src="manual/t03_tablet_agenda_partida.png" alt="La Agenda partida" width="760"><br><sub>La Agenda partida: a la izquierda el mes entero con su resumen y los colores de cada día; a la derecha los pedidos del día que tocaste, con la misma tarjeta de siempre.</sub></td></tr>
+</table>
 
 Sirve para ver de un pantallazo tu semana sin abrir pedido por pedido.
 
@@ -780,16 +725,12 @@ Sirve para ver de un pantallazo tu semana sin abrir pedido por pedido.
 
 ## 11. Producción: qué hacer mañana, esta semana y este mes
 
-<div class="capturas">
-  <figure>
-    <img src="manual/16_produccion_manana_vacio.png" alt="Cuando no tenés nada para mañana, SousChef te lo dice con todas las letras.">
-    <figcaption>Cuando no tenés nada para mañana, SousChef te lo dice con todas las letras.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/17_produccion_semana.png" alt="El plan de la semana: cuántos pedidos, cuántos días libres y cuánta plata hay a ">
-    <figcaption>El plan de la semana: cuántos pedidos, cuántos días libres y cuánta plata hay a cobrar.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/16_produccion_manana_vacio.png" alt="Cuando no tenés nada para mañana, SousChef te lo dice con todas las letras" width="200"><br><sub>Cuando no tenés nada para mañana, SousChef te lo dice con todas las letras.</sub></td>
+    <td width="25%" valign="top"><img src="manual/17_produccion_semana.png" alt="El plan de la semana" width="200"><br><sub>El plan de la semana: cuántos pedidos, cuántos días libres y cuánta plata hay a cobrar.</sub></td>
+  </tr>
+</table>
 
 *(Se abre desde el Inicio —la tarjeta **Mañana**, la tarjeta **Producción** ("Planificá tu semana y tu mes") o **Producción** en Mis herramientas— o desde **Gestión → Tu negocio → Producción**.)*
 
@@ -819,20 +760,12 @@ Es la mejor forma de arrancar la semana sabiendo exactamente qué te espera, y d
 
 ## 12. Tus clientas
 
-<div class="capturas tres">
-  <figure>
-    <img src="manual/19_clientes_lista.png" alt="Tu agenda de clientas, con el buscador y los chips "Con pedidos" y "Frecuentes 3">
-    <figcaption>Tu agenda de clientas (la pantalla ahora se llama «Clientas»), con el buscador y los chips "Con pedidos" y "Frecuentes 3+" (acá, con "Con pedidos" activo).</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/18_clientas_alta.png" alt="Arriba de la lista, los totales de tu negocio.">
-    <figcaption>Arriba de la lista de Clientas, los totales de tu negocio: cuántas clientas, cuántos pedidos y cuánta plata.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/20_clientes_alta.png" alt="Dar de alta una clienta es escribir el nombre —lo único obligatorio—, el WhatsAp">
-    <figcaption>Dar de alta una clienta es escribir el nombre —lo único obligatorio—, el WhatsApp y, si querés, el email; después tocás «Agregar clienta».</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/19_clientes_lista.png" alt="Tu agenda de clientas (la pantalla ahora se llama «Clientas»), con el buscador y los chips Con pedidos y…" width="200"><br><sub>Tu agenda de clientas (la pantalla ahora se llama «Clientas»), con el buscador y los chips "Con pedidos" y "Frecuentes 3+" (acá, con "Con pedidos" activo).</sub></td>
+    <td width="25%" valign="top"><img src="manual/20_clientes_alta.png" alt="Dar de alta una clienta es escribir el nombre —lo único obligatorio—, el WhatsApp y, si querés, el email" width="200"><br><sub>Dar de alta una clienta es escribir el nombre —lo único obligatorio—, el WhatsApp y, si querés, el email; después tocás «Agregar clienta».</sub></td>
+  </tr>
+</table>
 
 *(Gestión → Tu negocio → Clientas, o **Clientas** en Mis herramientas del Inicio)*
 
@@ -852,20 +785,13 @@ Tenés un **buscador** para encontrar a cualquiera al instante, el ícono **⇅*
 
 ## 13. Cuánto cobrar y precios atrasados
 
-<div class="capturas tres">
-  <figure>
-    <img src="manual/21_gestion_precios_costos.png" alt="En Gestión, «Costos y ganancia» junta las herramientas de plata: Cuánto cobrar, ">
-    <figcaption>En Gestión, «Costos y ganancia» junta las herramientas de plata: Cuánto cobrar, Recetas, Costos por kilo, Armado y entrega y Dónde comprar más barato. Costos por kilo se ve atenuado hasta que cargues tu primer relleno.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/22_calculadora_precios.png" alt="La calculadora: elegís producto, porciones y ganancia, y te devuelve el precio s">
-    <figcaption>Cuánto cobrar: elegís el producto, la cantidad (porciones o unidades) y la ganancia, y te devuelve el precio sugerido con el costo detallado.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/23_precios_actualizacion_vacio.png" alt="Precios atrasados cuando ningún producto quedó por debajo de tu margen mínimo.">
-    <figcaption>Precios atrasados cuando ningún producto quedó por debajo de tu margen mínimo.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/21_gestion_precios_costos.png" alt="En Gestión, «Costos y ganancia» junta las herramientas de plata" width="200"><br><sub>En Gestión, «Costos y ganancia» junta las herramientas de plata: Cuánto cobrar, Recetas, Costos por kilo, Armado y entrega y Dónde comprar más barato. Costos por kilo se ve atenuado hasta que cargues tu primer relleno.</sub></td>
+    <td width="25%" valign="top"><img src="manual/22_calculadora_precios.png" alt="Cuánto cobrar: elegís el producto, la cantidad (porciones o unidades) y la ganancia, y te devuelve el precio…" width="200"><br><sub>Cuánto cobrar: elegís el producto, la cantidad (porciones o unidades) y la ganancia, y te devuelve el precio sugerido con el costo detallado.</sub></td>
+    <td width="25%" valign="top"><img src="manual/23_precios_actualizacion_vacio.png" alt="Precios atrasados cuando ningún producto quedó por debajo de tu margen mínimo" width="200"><br><sub>Precios atrasados cuando ningún producto quedó por debajo de tu margen mínimo.</sub></td>
+  </tr>
+</table>
 
 
 ### Cuánto cobrar
@@ -912,16 +838,12 @@ Todo esto está en **Gestión**, el último lugar de la barra de abajo. Arriba v
 
 ### Recetas
 
-<div class="capturas">
-  <figure>
-    <img src="manual/28_recetas_alta.png" alt="Crear una receta: emoji y nombre, categoría, cuánto rinde y en qué se mide.">
-    <figcaption>Crear una receta: emoji y nombre, categoría, cuánto rinde y en qué se mide.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/33_recetas_alta.png" alt="La misma hoja, con los ingredientes ya cargados y la vista previa de costo.">
-    <figcaption>La misma hoja, más abajo: los ingredientes con su precio sacado de Mis ingredientes, el botón «Contame qué lleva» y la vista previa de costo.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/28_recetas_alta.png" alt="Crear una receta" width="200"><br><sub>Crear una receta: emoji y nombre, categoría, cuánto rinde y en qué se mide.</sub></td>
+    <td width="25%" valign="top"><img src="manual/33_recetas_alta.png" alt="La misma hoja, más abajo" width="200"><br><sub>La misma hoja, más abajo: los ingredientes con su precio sacado de Mis ingredientes, el botón «Contame qué lleva» y la vista previa de costo.</sub></td>
+  </tr>
+</table>
 
 Cargá tus recetas con sus **ingredientes y cantidades**. SousChef te calcula solo el **costo total** y el **costo por porción**. Sin recetas cargadas, es difícil saber cuánto cobrar; con ellas, tenés el número exacto.
 
@@ -937,12 +859,11 @@ Cargá tus recetas con sus **ingredientes y cantidades**. SousChef te calcula so
 
 #### "Contame qué lleva": dictá la receta
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/33a_contame_que_lleva.png" alt="Contame qué lleva: arriba lo que dictaste (o escribiste) y el botón para mantene">
-    <figcaption>Contame qué lleva: arriba lo que dictaste (o escribiste) y el botón para mantener apretado; debajo, «Esto entendí — revisalo antes de agregarlo»: dos ingredientes reconocidos con lo que se va a descontar y uno en ámbar porque no sabe a cuál de tus ingredientes te referís.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/33a_contame_que_lleva.png" alt="Contame qué lleva" width="200"><br><sub>Contame qué lleva: arriba lo que dictaste (o escribiste) y el botón para mantener apretado; debajo, «Esto entendí — revisalo antes de agregarlo»: dos ingredientes reconocidos con lo que se va a descontar y uno en ámbar porque no sabe a cuál de tus ingredientes te referís.</sub></td>
+  </tr>
+</table>
 
 En la receta (y en Costos por kilo) tocá **Contame qué lleva**. **Mantené apretado el botón, hablá y soltá** cuando termines: *"medio kilo de crema, 300 g de dulce de leche y 100 de nueces"* (también la podés escribir). Al soltar, la app la interpreta y te muestra **Esto entendí — revisalo antes de agregarlo**; revisás y tocás **Agregar N ingredientes**.
 Las cantidades son tuyas: no inventa ninguna. Si en algún ingrediente no dijiste la cantidad, queda marcado *"falta la cantidad"* y no se agrega: sumala al texto (por ejemplo, *"200 g de nueces"*) y tocá **Volver a interpretar**. Si no sabe a cuál de tus ingredientes te referís, **te pregunta**: lo elegís o lo cargás como nuevo. Y no repite: aunque hagas pausas, lo que sale dos veces igual (mismo ingrediente y misma cantidad) lo ves una sola vez; si nombrás el mismo ingrediente con cantidades distintas (100 g para el bizcochuelo y 50 g para el almíbar), quedan dos filas, una por cada uso.
@@ -957,12 +878,11 @@ Cuando enganchás un ingrediente de tu lista, su precio **no se escribe**: apare
 
 #### El botón "Otro tamaño": la misma receta, para otro rinde
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/33b_otro_tamano.png" alt="Otro tamaño: le decís cuánto tiene que rendir la receta nueva y, antes de crearl">
-    <figcaption>Otro tamaño: le decís cuánto tiene que rendir la receta nueva y, antes de crearla, te muestra el nombre que le va a poner y las cantidades recalculadas, ingrediente por ingrediente.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/33b_otro_tamano.png" alt="Otro tamaño: le decís cuánto tiene que rendir la receta nueva y, antes de crearla, te muestra el nombre que…" width="200"><br><sub>Otro tamaño: le decís cuánto tiene que rendir la receta nueva y, antes de crearla, te muestra el nombre que le va a poner y las cantidades recalculadas, ingrediente por ingrediente.</sub></td>
+  </tr>
+</table>
 
 ¿Tenés la receta de tu budín para 1 kg y te piden uno más grande? No la copies a mano: abrí la receta y tocá **"Otro tamaño"**.
 
@@ -973,28 +893,17 @@ Cuando enganchás un ingrediente de tu lista, su precio **no se escribe**: apare
 
 ### Mis ingredientes
 
-<div class="capturas tres">
-  <figure>
-    <img src="manual/31_ingredientes_lista.png" alt="Tus insumos con la marca y el precio actual de cada uno. Arriba buscás y filtrás">
-    <figcaption>Mis ingredientes: tus insumos con la marca y el precio actual de cada uno. Arriba buscás y filtrás con Queda poco, En promo o Sin precio.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/32_ingredientes_alta.png" alt="Cargar un insumo nuevo: nombre con emoji y la unidad en que lo medís.">
-    <figcaption>Cargar un insumo nuevo: nombre con emoji y la unidad en que lo medís.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/34_ingredientes_alta.png" alt="Y debajo, una o más marcas con su proveedor, cuánto pagaste y por qué cantidad.">
-    <figcaption>La hoja Nuevo ingrediente: el nombre, el primer precio (marca, proveedor, cuánto pagaste y por qué cantidad, con el precio por kilo calculado) y, al final, si querés, «Avisame cuando quede…» con el mínimo.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/35_mejores_precios.png" alt="El comparador: cada insumo con su marca, proveedor y precio por kilo.">
-    <figcaption>El comparador: cada insumo con su marca, proveedor y precio por kilo.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/37_mejores_precios_ingrediente_alta.png" alt="Agregar un insumo al comparador.">
-    <figcaption>Agregar un insumo al comparador.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/31_ingredientes_lista.png" alt="Mis ingredientes" width="200"><br><sub>Mis ingredientes: tus insumos con la marca y el precio actual de cada uno. Arriba buscás y filtrás con Queda poco, En promo o Sin precio.</sub></td>
+    <td width="25%" valign="top"><img src="manual/32_ingredientes_alta.png" alt="Cargar un insumo nuevo" width="200"><br><sub>Cargar un insumo nuevo: nombre con emoji y la unidad en que lo medís.</sub></td>
+    <td width="25%" valign="top"><img src="manual/34_ingredientes_alta.png" alt="La hoja Nuevo ingrediente" width="200"><br><sub>La hoja Nuevo ingrediente: el nombre, el primer precio (marca, proveedor, cuánto pagaste y por qué cantidad, con el precio por kilo calculado) y, al final, si querés, «Avisame cuando quede…» con el mínimo.</sub></td>
+    <td width="25%" valign="top"><img src="manual/35_mejores_precios.png" alt="El comparador: cada insumo con su marca, proveedor y precio por kilo" width="200"><br><sub>El comparador: cada insumo con su marca, proveedor y precio por kilo.</sub></td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/37_mejores_precios_ingrediente_alta.png" alt="Agregar un insumo al comparador" width="200"><br><sub>Agregar un insumo al comparador.</sub></td>
+  </tr>
+</table>
 
 Es la lista de tus **insumos con sus precios actuales**. Podés:
 
@@ -1014,12 +923,11 @@ Al cargar o editar un ingrediente, al final está **Avisame cuando quede menos d
 
 ### Mi alacena
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/39_stock_control.png" alt="El "qué tengo hoy": cada insumo con lo que te queda. Los filtros te dejan ver so">
-    <figcaption>Mi alacena, el "qué tengo hoy": arriba, el aviso de lo que se acabó o queda poco (y si te alcanza para los pedidos de esta semana); abajo, cada insumo con lo que te queda y su cartelito (Hay, Queda poco, Se acabó o Sin mínimo).</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/39_stock_control.png" alt="Mi alacena, el qué tengo hoy" width="200"><br><sub>Mi alacena, el "qué tengo hoy": arriba, el aviso de lo que se acabó o queda poco (y si te alcanza para los pedidos de esta semana); abajo, cada insumo con lo que te queda y su cartelito (Hay, Queda poco, Se acabó o Sin mínimo).</sub></td>
+  </tr>
+</table>
 
 Es el **"qué tengo hoy"** de cada insumo. Muestra la cantidad que tenés y el mínimo que configuraste, con un cartelito que te lo dice con todas las letras:
 
@@ -1044,28 +952,17 @@ Los desplegables de **Unidad** (al corregir, comprar o usar) te ofrecen sólo un
 
 ### Costos por kilo: que la alacena se descuente sola
 
-<div class="capturas tres">
-  <figure>
-    <img src="manual/36_rellenos_lista.png" alt="Tu carta de rellenos, con los filtros Activos / Ocultos / Premium.">
-    <figcaption>Tu carta de rellenos, con los filtros Activos / Ocultos / Premium.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/29_rellenos_bizcochuelos_lista.png" alt="El contador "0 de 19 con receta": los que dicen "sin receta" son los que hay que">
-    <figcaption>Costos por kilo: arriba, «Empezá por…» con el que más se repite en tus pedidos y todavía no tiene receta; después tus rellenos con el contador "N de M con receta", cada uno con lo que te cuesta el kilo o "sin receta — tocá para cargarla", y, deslizando, más abajo tus bizcochuelos y tus coberturas, con las que usaste y todavía no tienen receta.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/30_relleno_receta.png" alt="La receta de UN KILO de relleno: cuántos kilos rinde y qué lleva.">
-    <figcaption>La receta de UN KILO de un relleno (o de una cobertura): cuántos kilos rinde y qué lleva. Si no querés ir ingrediente por ingrediente, «Contame qué lleva» te deja dictarla.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/26_rellenos_alta.png" alt="Cargar un relleno nuevo desde la lista.">
-    <figcaption>Cargar un relleno nuevo desde la lista.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/38_rellenos_alta.png" alt="Son tres campos: el nombre, el adicional premium y qué tiene.">
-    <figcaption>Son tres campos: el nombre, el adicional premium y qué tiene.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/36_rellenos_lista.png" alt="Tu carta de rellenos, con los filtros Activos / Ocultos / Premium" width="200"><br><sub>Tu carta de rellenos, con los filtros Activos / Ocultos / Premium.</sub></td>
+    <td width="25%" valign="top"><img src="manual/29_rellenos_bizcochuelos_lista.png" alt="Costos por kilo" width="200"><br><sub>Costos por kilo: arriba, «Empezá por…» con el que más se repite en tus pedidos y todavía no tiene receta; después tus rellenos con el contador "N de M con receta", cada uno con lo que te cuesta el kilo o "sin receta — tocá para cargarla", y, deslizando, más abajo tus bizcochuelos y tus coberturas, con las que usaste y todavía no tienen receta.</sub></td>
+    <td width="25%" valign="top"><img src="manual/30_relleno_receta.png" alt="La receta de UN KILO de un relleno (o de una cobertura)" width="200"><br><sub>La receta de UN KILO de un relleno (o de una cobertura): cuántos kilos rinde y qué lleva. Si no querés ir ingrediente por ingrediente, «Contame qué lleva» te deja dictarla.</sub></td>
+    <td width="25%" valign="top"><img src="manual/26_rellenos_alta.png" alt="Cargar un relleno nuevo desde la lista" width="200"><br><sub>Cargar un relleno nuevo desde la lista.</sub></td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/38_rellenos_alta.png" alt="Son tres campos" width="200"><br><sub>Son tres campos: el nombre, el adicional premium y qué tiene.</sub></td>
+  </tr>
+</table>
 
 Esta es la parte que te saca de encima el trabajo de anotar cada cosa que usás.
 
@@ -1102,12 +999,11 @@ Si no sabés cuánta merma tenés, **dejala en cero**. Una merma inventada ensuc
 
 ### Armado y entrega
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/38a_armado_y_entrega.png" alt="Armado y entrega: «Uno por cada piso» (el cartón, las varillas) y «Uno por pedid">
-    <figcaption>Armado y entrega: «Uno por cada piso» (el cartón, las varillas) y «Uno por pedido» (la caja, la cinta), con el botón Agregar para elegirlos de entre tus ingredientes.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/38a_armado_y_entrega.png" alt="Armado y entrega" width="200"><br><sub>Armado y entrega: «Uno por cada piso» (el cartón, las varillas) y «Uno por pedido» (la caja, la cinta), con el botón Agregar para elegirlos de entre tus ingredientes.</sub></td>
+  </tr>
+</table>
 
 En **Gestión → Costos y ganancia → Armado y entrega** tenés juntos los materiales que no son masa ni relleno pero también cuestan plata: lo de **armar** cada torta (el cartón, las varillas de cada piso) y lo de **entregar** cada pedido (la caja, la cinta, el moño). Son los mismos que en las recetas se cuentan "uno por piso" o "uno por pedido" — acá los tenés en un solo lugar, para que ningún costo se te escape.
 
@@ -1132,44 +1028,23 @@ Los ajustes y las compras que cargás a mano **conviven** con todo esto: SousChe
 
 ### Otras cosas del menú
 
-<div class="capturas tres">
-  <figure>
-    <img src="manual/42_menu_gestion_negocio.png" alt="Gestión empieza por «Tu negocio»: Pedidos, Agenda, Clientas, Saldos, Para hoy, P">
-    <figcaption>Gestión empieza por «Tu negocio»: Pedidos, Agenda, Clientas, Saldos, Para hoy, Producción, Lo que vendés, Rellenos que ofrecés y Galería, con tu hora, tu margen y tus pedidos por día arriba.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/43_menu_gestion_asistente.png" alt="Más abajo, «Tu asistente» (Pendientes, Precios atrasados y Resumen del mes), «Tu">
-    <figcaption>Más abajo, «Tu asistente» (Pendientes, Precios atrasados y Resumen del mes), «Tu plan» y Configuración al pie.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/27_gestion_insumos_negocio.png" alt="La parte de lo que comprás: Mis ingredientes, Mi alacena, Comprar esta semana y ">
-    <figcaption>La parte de lo que comprás: Mis ingredientes, Mi alacena, Comprar esta semana y Gastos. Arriba asoma, atenuado y con el motivo, lo que todavía no podés usar.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/24_combos_vacio.png" alt="Combos y paquetes cuando todavía no creaste ninguno.">
-    <figcaption>Combos y paquetes cuando todavía no creaste ninguno.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/25_combos_alta.png" alt="Un combo nuevo: nombre, precio, cuánto saldría por separado y qué lleva.">
-    <figcaption>Un combo nuevo: nombre, precio, cuánto saldría por separado y qué lleva.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/40_gastos_alta.png" alt="Registrar un gasto.">
-    <figcaption>Registrar un gasto.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/41_gastos_analisis.png" alt="Cuánto llevás gastado este mes contra el anterior, con la tendencia mes a mes.">
-    <figcaption>Gastos: cuánto llevás gastado este mes contra el anterior, con la tendencia mes a mes.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/44_galeria_trabajos.png" alt="Galería: tus fotos y videos de trabajos, con temática, nombre y clienta.">
-    <figcaption>Galería: tus fotos y videos de trabajos, con temática, nombre y clienta.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/45_galeria_publicacion_redes.png" alt="Los tres pasos para armar un posteo: subís fotos, tocás "Generar IA" y elegís el">
-    <figcaption>Los tres pasos para armar un posteo: subís fotos, tocás "Generar IA" y elegís el texto que más te gusta.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/42_menu_gestion_negocio.png" alt="Gestión empieza por «Tu negocio»" width="200"><br><sub>Gestión empieza por «Tu negocio»: Pedidos, Agenda, Clientas, Saldos, Para hoy, Producción, Lo que vendés, Rellenos que ofrecés y Galería, con tu hora, tu margen y tus pedidos por día arriba.</sub></td>
+    <td width="25%" valign="top"><img src="manual/43_menu_gestion_asistente.png" alt="Más abajo, «Tu asistente» (Pendientes, Precios atrasados y Resumen del mes), «Tu plan» y Configuración al pie" width="200"><br><sub>Más abajo, «Tu asistente» (Pendientes, Precios atrasados y Resumen del mes), «Tu plan» y Configuración al pie.</sub></td>
+    <td width="25%" valign="top"><img src="manual/27_gestion_insumos_negocio.png" alt="La parte de lo que comprás" width="200"><br><sub>La parte de lo que comprás: Mis ingredientes, Mi alacena, Comprar esta semana y Gastos. Arriba asoma, atenuado y con el motivo, lo que todavía no podés usar.</sub></td>
+    <td width="25%" valign="top"><img src="manual/24_combos_vacio.png" alt="Combos y paquetes cuando todavía no creaste ninguno" width="200"><br><sub>Combos y paquetes cuando todavía no creaste ninguno.</sub></td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/25_combos_alta.png" alt="Un combo nuevo: nombre, precio, cuánto saldría por separado y qué lleva" width="200"><br><sub>Un combo nuevo: nombre, precio, cuánto saldría por separado y qué lleva.</sub></td>
+    <td width="25%" valign="top"><img src="manual/40_gastos_alta.png" alt="Registrar un gasto" width="200"><br><sub>Registrar un gasto.</sub></td>
+    <td width="25%" valign="top"><img src="manual/41_gastos_analisis.png" alt="Gastos: cuánto llevás gastado este mes contra el anterior, con la tendencia mes a mes" width="200"><br><sub>Gastos: cuánto llevás gastado este mes contra el anterior, con la tendencia mes a mes.</sub></td>
+    <td width="25%" valign="top"><img src="manual/44_galeria_trabajos.png" alt="Galería: tus fotos y videos de trabajos, con temática, nombre y clienta" width="200"><br><sub>Galería: tus fotos y videos de trabajos, con temática, nombre y clienta.</sub></td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/45_galeria_publicacion_redes.png" alt="Los tres pasos para armar un posteo" width="200"><br><sub>Los tres pasos para armar un posteo: subís fotos, tocás "Generar IA" y elegís el texto que más te gusta.</sub></td>
+  </tr>
+</table>
 
 Todo lo que tiene Gestión, en el orden en que aparece, y dónde está contado:
 
@@ -1201,12 +1076,11 @@ Y al pie, **Configuración** → [sección 17](#17-configuración-cómo-atiende-
 
 ## 15. Comprar esta semana
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/54_compras_semana.png" alt="Comprar esta semana: la semana que viene, el total estimado y los ingredientes que faltan con cuánto comprar.">
-    <figcaption>Comprar esta semana: la semana que viene, el total estimado y, por ingrediente, cuánto comprar y cuánto ya tenés. Si el stock alcanza, te lo dice con todas las letras.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/54_compras_semana.png" alt="Comprar esta semana" width="200"><br><sub>Comprar esta semana: la semana que viene, el total estimado y, por ingrediente, cuánto comprar y cuánto ya tenés. Si el stock alcanza, te lo dice con todas las letras.</sub></td>
+  </tr>
+</table>
 
 *(Gestión → Lo que comprás → Comprar esta semana, o **Comprar** en Mis herramientas del Inicio)*
 
@@ -1221,12 +1095,11 @@ Ya no te vas a olvidar de nada ni vas a comprar de más.
 
 ## 16. Cobros y saldos pendientes
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/46_saldos_cobrar_hoy.png" alt="Saldos en tres partes: lo que cobrás hoy, lo que te deben de antes y lo que falt">
-    <figcaption>Saldos en tres partes: lo que cobrás hoy, lo que te deben de antes y lo que falta cobrar al entregar. Cada pedido con su botón «Me pagó».</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/46_saldos_cobrar_hoy.png" alt="Saldos en tres partes" width="200"><br><sub>Saldos en tres partes: lo que cobrás hoy, lo que te deben de antes y lo que falta cobrar al entregar. Cada pedido con su botón «Me pagó».</sub></td>
+  </tr>
+</table>
 
 *(Gestión → Tu negocio → Saldos, o **Saldos** en Mis herramientas del Inicio)*
 
@@ -1246,20 +1119,13 @@ Es tu control de caja: siempre sabés quién te debe y cuánto.
 
 ## 17. Configuración: cómo atiende tu asistente (envíos, seña y retiro)
 
-<div class="capturas tres">
-  <figure>
-    <img src="manual/48_configuracion_negocio.png" alt="El logo de tu negocio, la paleta de colores, tu nombre y cómo se llama tu asisten">
-    <figcaption>El logo de tu negocio, la paleta de colores, tu nombre y cómo se llama tu asistente («¿Cómo querés llamar a tu asistente?»).</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/49_configuracion_costos_agenda.png" alt="Tu valor por hora, tu margen mínimo, cuántos pedidos por día aceptás y con cuánt">
-    <figcaption>Tu valor por hora, tu margen mínimo, cuántos pedidos por día aceptás y con cuánta anticipación.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/47_gestion_redes_configuracion.png" alt="El final de Gestión: SousChef Pro y, al pie, Configuración («Logo, colores, cost">
-    <figcaption>El final de Gestión: SousChef Pro y, al pie, Configuración («Logo, colores, costos y agenda»).</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/48_configuracion_negocio.png" alt="El logo de tu negocio, la paleta de colores, tu nombre y cómo se llama tu asistente («¿Cómo querés llamar a…" width="200"><br><sub>El logo de tu negocio, la paleta de colores, tu nombre y cómo se llama tu asistente («¿Cómo querés llamar a tu asistente?»).</sub></td>
+    <td width="25%" valign="top"><img src="manual/49_configuracion_costos_agenda.png" alt="Tu valor por hora, tu margen mínimo, cuántos pedidos por día aceptás y con cuánta anticipación" width="200"><br><sub>Tu valor por hora, tu margen mínimo, cuántos pedidos por día aceptás y con cuánta anticipación.</sub></td>
+    <td width="25%" valign="top"><img src="manual/47_gestion_redes_configuracion.png" alt="El final de Gestión" width="200"><br><sub>El final de Gestión: SousChef Pro y, al pie, Configuración («Logo, colores, costos y agenda»).</sub></td>
+  </tr>
+</table>
 
 En **Configuración**, la tarjeta **Lo que tu asistente tiene que saber** 🧠 le enseña a tu asistente cómo trabajás vos, para que responda como lo harías vos. Todo con botoncitos — sin escribir párrafos.
 
@@ -1320,16 +1186,12 @@ Si el teléfono no puede abrir la política o los términos, la app te lo avisa 
 
 ## 18. Los avisos automáticos que vas a recibir
 
-<div class="capturas">
-  <figure>
-    <img src="manual/50_resumen_mes_cierre.png" alt="El cierre del mes: tu ganancia y cómo viene contra el mes pasado, más ingresos, ">
-    <figcaption>El cierre del mes: tu ganancia y cómo viene contra el mes pasado, más ingresos, gastos y margen.</figcaption>
-  </figure>
-  <figure>
-    <img src="manual/51_resumen_mes_ranking.png" alt="Y el ranking de lo que más vendiste, con la cantidad y el importe de cada uno.">
-    <figcaption>Y el ranking de lo que más vendiste, con la cantidad y el importe de cada uno.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/50_resumen_mes_cierre.png" alt="El cierre del mes" width="200"><br><sub>El cierre del mes: tu ganancia y cómo viene contra el mes pasado, más ingresos, gastos y margen.</sub></td>
+    <td width="25%" valign="top"><img src="manual/51_resumen_mes_ranking.png" alt="Y el ranking de lo que más vendiste, con la cantidad y el importe de cada uno" width="200"><br><sub>Y el ranking de lo que más vendiste, con la cantidad y el importe de cada uno.</sub></td>
+  </tr>
+</table>
 
 SousChef te manda avisos al celular **en el momento justo**, sin que tengas que estar mirando la app. Los textos son claros y completos: te dicen la clienta, el pedido y la fecha con todas las letras (nada de avisos crípticos a medio armar). Estos son los que vas a recibir:
 
@@ -1364,12 +1226,11 @@ SousChef te manda avisos al celular **en el momento justo**, sin que tengas que 
 
 ## 19. El asistente por voz
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/52_asistente_voz.png" alt="Le preguntás hablando y te contesta. Abajo, el micrófono para mantener apretado ">
-    <figcaption>Le preguntás hablando o escribiendo y te contesta (antes de la primera pregunta te ofrece unas sugeridas para empezar). El micrófono para mantener apretado está abajo a la izquierda, al lado de donde escribís.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/52_asistente_voz.png" alt="Le preguntás hablando o escribiendo y te contesta (antes de la primera pregunta te ofrece unas sugeridas para…" width="200"><br><sub>Le preguntás hablando o escribiendo y te contesta (antes de la primera pregunta te ofrece unas sugeridas para empezar). El micrófono para mantener apretado está abajo a la izquierda, al lado de donde escribís.</sub></td>
+  </tr>
+</table>
 
 *(Tocá el botón redondo del micrófono, en el medio de la barra de abajo: se abre la pantalla **Asistente**.)*
 
@@ -1382,12 +1243,11 @@ SousChef te manda avisos al celular **en el momento justo**, sin que tengas que 
 
 ### La primera vez: «Antes de usar el asistente»
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/52a_antes_de_usar_asistente.png" alt="La hoja «Antes de usar el asistente»: qué le manda SousChef a la inteligencia ar">
-    <figcaption>La hoja «Antes de usar el asistente»: qué le manda SousChef a la inteligencia artificial y a quién, el aviso sobre el asistente que atiende a tus clientas, el enlace a la política y los botones Acepto / Ahora no.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/52a_antes_de_usar_asistente.png" alt="La hoja «Antes de usar el asistente»" width="200"><br><sub>La hoja «Antes de usar el asistente»: qué le manda SousChef a la inteligencia artificial y a quién, el aviso sobre el asistente que atiende a tus clientas, el enlace a la política y los botones Acepto / Ahora no.</sub></td>
+  </tr>
+</table>
 
 La primera vez que le hablás o le escribís, antes de mandar nada aparece la hoja **Antes de usar el asistente**. Te cuenta que, para entenderte y contestarte, SousChef usa inteligencia artificial de otras empresas; qué les manda (lo que escribís o dictás y lo que el asistente mira de tu negocio para contestarte, las fotos de tus facturas, de tus listas de precios y de tus trabajos, y tus notas de voz) y a quiénes (Groq, Google Gemini y Anthropic, para entender y responder). También te cuenta que el asistente que atiende a tus clientas usa esa misma inteligencia artificial y guarda en Langfuse un registro de cada mensaje para ver qué anduvo mal. Abajo está **Leer la Política de privacidad**.
 
@@ -1431,12 +1291,11 @@ Si le pedís que haga algo importante (por ejemplo, reprogramar un pedido), te l
 
 ## 20. Tu plan: SousChef Free y Pro
 
-<div class="capturas una">
-  <figure>
-    <img src="manual/53_plan_pro.png" alt="La pantalla del plan: qué mejora exactamente el Pro y el precio del mes.">
-    <figcaption>La pantalla del plan: qué mejora exactamente el Pro y el precio del mes.</figcaption>
-  </figure>
-</div>
+<table>
+  <tr>
+    <td width="25%" valign="top"><img src="manual/53_plan_pro.png" alt="La pantalla del plan" width="200"><br><sub>La pantalla del plan: qué mejora exactamente el Pro y el precio del mes.</sub></td>
+  </tr>
+</table>
 
 
 SousChef viene en dos versiones: **Free** (gratis) y **Pro**. Con Free ya tenés toda la app funcionando. **Pro hace que tu asistente entienda más**: cuando está activo, entiende mejor a las clientas, responde con más criterio cuando la consulta es enredada, lee mejor las fotos de las tortas que te mandan y escanea tus facturas con más precisión. En otras palabras, con Pro tu asistente atiende todavía más parecido a como lo harías vos.
