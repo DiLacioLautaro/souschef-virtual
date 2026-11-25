@@ -4,12 +4,8 @@
 clientas por WhatsApp, Instagram y Messenger, toma los pedidos y organiza el negocio (pedidos,
 producción, precios, agenda, clientas, recetas, stock y cobros) desde una sola app.
 
-**Estado:** en producción desde julio de 2026 · [souschefvirtual.com](https://souschefvirtual.com) ·
+**En producción desde julio de 2026** · [souschefvirtual.com](https://souschefvirtual.com) ·
 [recorrido en video](https://dilaciolautaro.github.io/portfolio/)
-
-> Este repositorio es la presentación del proyecto. El código fuente es privado y propietario;
-> lo muestro a pedido en procesos de selección. Contacto: [portfolio](https://dilaciolautaro.github.io/portfolio/) ·
-> [LinkedIn](https://www.linkedin.com/in/lautaro-di-lacio)
 
 <p>
   <img src="img/inicio.jpg" width="19%" alt="Inicio con el resumen del día">
@@ -18,6 +14,12 @@ producción, precios, agenda, clientas, recetas, stock y cobros) desde una sola 
   <img src="img/agenda.jpg" width="19%" alt="Agenda">
   <img src="img/costos.jpg" width="19%" alt="Costos y precios">
 </p>
+
+> Este repositorio es la presentación del proyecto. El código fuente es privado y propietario;
+> lo muestro a pedido en procesos de selección. Contacto: [portfolio](https://dilaciolautaro.github.io/portfolio/) ·
+> [LinkedIn](https://www.linkedin.com/in/lautaro-di-lacio)
+
+**En esta página:** [Qué hace](#qué-hace) · [Arquitectura](#arquitectura) · [Decisiones de diseño](#decisiones-de-diseño) · [En números](#en-números) · [Stack](#stack) · [Calidad](#calidad) · [Manual de usuario](#manual-de-usuario)
 
 ## Qué hace
 
@@ -29,12 +31,6 @@ producción, precios, agenda, clientas, recetas, stock y cobros) desde una sola 
   insumos, sin escribirle a ninguna clienta sin aprobación.
 - **Asistente personal, por voz o texto:** hace tareas dentro de la app; lo delicado queda en
   *Pendientes* esperando el OK de la dueña.
-
-## Manual de usuario
-
-El [manual de usuario](docs/manual-de-usuario.md) recorre la app pantalla por pantalla, con 69
-capturas sacadas con una cuenta de prueba y datos inventados. Está escrito para la repostera, no
-para quien desarrolla.
 
 ## Arquitectura
 
@@ -130,6 +126,11 @@ Contado sobre la rama principal el 15/11/2026.
 - Suite de evaluaciones del bot para verificar su comportamiento ante conversaciones de ejemplo.
 - CI en GitHub Actions: análisis, tests y compilación de iOS.
 - Webhooks con verificación de firma y esquema de base versionado por migraciones.
+
+## Manual de usuario
+
+Para quien usa la app, no para quien la desarrolla: el [manual de usuario](docs/manual/README.md)
+recorre SousChef en seis partes, con capturas sacadas con una cuenta de prueba y datos inventados.
 
 ---
 
