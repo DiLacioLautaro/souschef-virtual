@@ -230,6 +230,7 @@ Si le pedís que haga algo importante (por ejemplo, reprogramar un pedido), te l
 
 <table>
   <tr>
+    <td width="25%" valign="top"><img src="img/44_galeria_trabajos.png" alt="Galería" width="200"><br><sub>Galería: tus fotos y videos de trabajos, con temática, nombre y clienta.</sub></td>
     <td width="25%" valign="top"><img src="img/45_galeria_publicacion_redes.png" alt="Los tres pasos para armar un posteo" width="200"><br><sub>Los tres pasos para armar un posteo: subís fotos, tocás "Generar IA" y elegís el texto que más te gusta.</sub></td>
   </tr>
 </table>
