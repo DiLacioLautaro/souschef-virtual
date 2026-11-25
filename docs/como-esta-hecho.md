@@ -267,8 +267,8 @@ que alguien decide, a propósito, en cuál de las dos listas va.
 | Lógica compartida del backend | 14 archivos de test en Deno | **127 tests, todos pasan** (corrida local) |
 | El bot en el tiempo | Simulador de charlas | **17 tests, todos pasan**; incluye 120 charlas al azar |
 | Comportamiento del modelo | Evals con promptfoo | 168 casos escritos en seis archivos; necesitan las claves de los modelos, no se corrieron para esta página |
-| La app | `flutter test` | 74 archivos de test; no se corrieron para esta página |
-| iOS | GitHub Actions | Analiza y testea en Linux y, si pasa, compila iOS sin firma en macOS |
+| La app | `flutter test` | 74 archivos de test; corren en el CI (fila de abajo) |
+| CI | GitHub Actions | Analiza y testea la app en Linux y, si pasa, compila iOS sin firma en macOS. **Última corrida: n.º 10, el 14/11/2026, en verde**; las cinco más recientes pasaron |
 
 **El simulador de charlas** corre el bot real (`runWebhook` y `processTurn` enteros) con una
 base y un reloj de mentira, y un modelo de juguete que devuelve a propósito las respuestas
