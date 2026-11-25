@@ -130,7 +130,8 @@ Contado sobre la rama principal el 15/11/2026.
 ## Manual de usuario
 
 Para quien usa la app, no para quien la desarrolla: el [manual de usuario](docs/manual/README.md)
-recorre SousChef en seis partes, con capturas sacadas con una cuenta de prueba y datos inventados.
+recorre SousChef en seis partes. El negocio que se ve en las capturas es el de la primera usuaria
+real; las clientas, los teléfonos y los pedidos son inventados.
 
 ---
 

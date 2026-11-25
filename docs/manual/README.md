@@ -4,7 +4,7 @@
 
 **Autor:** Lautaro Di Lacio · **Fecha:** 29 de octubre de 2026
 
-> Este manual está escrito para la repostera que usa la app. Las capturas se sacaron con una cuenta de prueba y datos inventados.
+> Este manual está escrito para la repostera que usa la app. El negocio que se ve en las capturas es el de la primera usuaria real; las clientas, los teléfonos y los pedidos son inventados.
 
 ## Las seis partes
 
