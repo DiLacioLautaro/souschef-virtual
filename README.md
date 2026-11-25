@@ -16,7 +16,7 @@ producción, precios, agenda, clientas, recetas, stock y cobros) desde una sola 
 </p>
 
 **Proyecto individual.** Lo hice solo, de punta a punta: relevé lo que necesitaba la primera
-usuaria hablando con ella, lo planifiqué, lo desarrollé, lo pulí y lo testeé, y sigo subiendo
+usuaria hablando con ella, lo planifiqué, lo desarrollé, lo testeé y lo documenté, y sigo subiendo
 mejoras de forma continua a partir de su uso real.
 
 > Este repositorio es la presentación del proyecto. El código fuente es privado y propietario;
